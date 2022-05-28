@@ -1,2 +1,2 @@
 # lista-de-exercicio-javascript
-lista de javascript
+num3 = conversor de binario para decimal.
